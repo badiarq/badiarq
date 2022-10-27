@@ -29,7 +29,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://dynamobim.org/">
-        <img src="https://i0.wp.com/fr.graitec.com/blog/wp-content/uploads/2019/06/Logo-Dynamo.png?fit=132%2C166&ssl=1" alt="Dynamo" width="60px" height="60px">
+        <img src="https://dynamobim.org/wp-content/themes/dynamo/img/icon.png" alt="Dynamo" width="60px" height="60px">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
