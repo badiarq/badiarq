@@ -37,7 +37,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://en.wikipedia.org/wiki/Three.js">
-        <img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="ThreeJS" width="60px" height="60px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="ThreeJS" width="60px" height="60px">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://ifcjs.github.io/info/docs/Introduction">
