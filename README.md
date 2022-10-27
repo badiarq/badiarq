@@ -62,6 +62,10 @@
         <img src="https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png" alt="Autocad" width="60px" height="60px">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://en.wikipedia.org/wiki/Microsoft_Power_BI">
+        <img src="https://www.gabo.de/wp-content/uploads/2021/09/Power_BI_256x256.png" alt="PowerBI" width="60px" height="60px">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.solibri.com/?utm_source=adwords&utm_campaign=SEM+-+Solibri+brand+term&utm_medium=ppc&utm_term=solibri&hsa_ver=3&hsa_grp=113092111805&hsa_acc=5457118427&hsa_ad=485000191638&hsa_src=g&hsa_tgt=kwd-298873150508&hsa_kw=solibri&hsa_cam=11804515865&hsa_mt=e&hsa_net=adwords&gclid=CjwKCAjwh-CVBhB8EiwAjFEPGWwKIJOE2jiK7VqW6MySu3IuCx_6FKqYdD5IV4wEhQNELWT_QlaIjxoC46MQAvD_BwE">
         <img src="https://evolve-consultancy.com/wp-content/uploads/2020/03/solibri_product_icon_2019-e1585325757592.png" alt="Solibri" width="60px" height="60px">
     </a>
