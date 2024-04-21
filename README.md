@@ -50,7 +50,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <div>
-    <h2>And use some of these tools:</h2>
+    <h2>And I have used tools like:</h2>
     <a href="https://www.autodesk.com/products/revit/overview?term=1-YEAR&tab=subscription&plc=RVT">
         <img src="https://i.pinimg.com/originals/43/82/97/4382976b116a3472b77f84b28bd28a76.png" alt="Revit" width="60px" height="60px">
     </a>
