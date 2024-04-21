@@ -41,7 +41,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://ifcjs.github.io/info/docs/Introduction">
-        <img src="https://ifcjs.github.io/info/assets/images/logo-a326242dd945bcc271d193f7e6d2f054.png" alt="IFCJS" width="60px" height="60px">
+        <img src="https://avatars.githubusercontent.com/u/85238223?s=280&v=4" alt="IFCJS" width="60px" height="60px">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://en.wikipedia.org/wiki/Visual_Basic_for_Applications">
@@ -52,7 +52,7 @@
 <div>
     <h2>And use some of these tools:</h2>
     <a href="https://www.autodesk.com/products/revit/overview?term=1-YEAR&tab=subscription&plc=RVT">
-        <img src="https://www.grasscad.com/images/revit.png" alt="Revit" width="60px" height="60px">
+        <img src="https://i.pinimg.com/originals/43/82/97/4382976b116a3472b77f84b28bd28a76.png" alt="Revit" width="60px" height="60px">
     </a>
     <a href="https://graphisoft.com/solutions/archicad">
         <img src="https://cad.kz/upload/iblock/935/935c8a9ad44b2afc54ecda3a66c30344.png" alt="Archicad" width="60px" height="60px">
