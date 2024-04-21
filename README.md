@@ -1,6 +1,6 @@
 <h1>Hi! I'm Badi</h1>
-<p>I'm an architect working in a software company in France as BIM Consultant. I help companies implementing BIM Processes and collaborating with other actors using BIM collaboration tools.</p>
-<p>I'm very interested in BIM development, that's why I did a BIM Master after my architecture studies and decided to keep learn DYNAMO, PYTHON, JAVASCRIPT, THREE.JS and IFC.JS</p>
+<p>Architect working as Product Owner for BIM Solutions in a software company helping clients implementing BIM Processes and collaborating with other stakeholder.</p>
+<p>I'm very interested in BIM development, that's why I did a BIM Master after my architecture studies and decided to keep learning JAVASCRIPT, THREE.JS, IFC.JS, DYNAMO, PYTHON and others</p>
 <p>I am open to new projects, specially if they are challenging! Feel free to say Hi!</p>
 <h2>I speak:</h2>
 <div>
